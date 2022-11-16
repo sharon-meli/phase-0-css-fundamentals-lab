@@ -3,3 +3,60 @@ body {
   height: 100%;
   margin: 0;
 }
+ 
+h1 {
+  text-align: center;
+}
+
+
+
+img {
+  margin-left: auto; 
+  margin-right: auto;
+  display: flex;
+}
+
+
+ nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(31, 168, 31);
+  color: aliceblue;
+  }
+header nav {
+text-align: center;
+}
+
+ figcaption {
+  font-size: 12px;
+  text-align: center;
+ }
+ .center {
+  max-width: 800px;
+  min-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  padding :10px;
+ }
+
+div {
+float: left;
+background-color: aquamarine;
+text-align: center;
+width: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
